@@ -1,2 +1,2 @@
 # Movie_Recommandation_System
-This project is about movie recommandation system which works with python and has a streamlit interface where you can visualize your app
+This a project about movie recommendation system it uses content based recommendation using cosine similarity here i have vectorized using count vectorizer which vectorizes the tags of the data and compares it with the other tags using cosine similarity so if these two tags are similar the movie is recommended to the user and for the images i have used TMBD website where the movie id is passed and the poster of movie is requested by requests package
